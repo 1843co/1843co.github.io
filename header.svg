@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="610px" viewBox="0 0 1440 610" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Path</title>
+    <defs>
+        <linearGradient x1="67.149282%" y1="41.0276813%" x2="43.7561588%" y2="58.9723187%" id="linearGradient-1">
+            <stop stop-color="#9B66FF" offset="0%"></stop>
+            <stop stop-color="#FF73EF" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="0 0 0 610 1440 193 1440 0"></polygon>
+    </defs>
+    <g id="Landing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Path">
+            <use fill="#9B66FF" xlink:href="#path-2"></use>
+            <use fill-opacity="0.9" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+        </g>
+    </g>
+</svg>
