@@ -1,0 +1,6 @@
+{
+    "Servers": [{
+        "Version": "mdm-byod",
+        "BaseURL": "https://appleconfigurator2.manage.microsoft.com/MDMServiceConfig?id=7d9bf371-8f9b-4fde-977b-f5d96501b2b8&AADTenantId=84bae862-e7df-4f1b-82d7-038040fa8182"
+    }]
+}
